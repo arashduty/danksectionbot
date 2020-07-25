@@ -10,4 +10,4 @@ async def on_ready():
 async def say(ctx, *, args):
     await ctx.send(args)
 
-bot.run("NzM2NTU2NTAxNTczMDQyMjU3.Xxwhsg.7_GEF5E0bYAa2XcLzS-44icjTFw")
+bot.run("NzM2NTU2NTAxNTczMDQyMjU3.Xxwhsg.7_GEF5E0bYAa2XcLzS-44icjTFa")
